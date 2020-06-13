@@ -1,3 +1,4 @@
+***As I work on a computer lend to me by friend, the first commit from the terminal appears to have a different name. However this repository work is done by Git user: LakshmiPrasannan***
 
 The output video can be seen in the following link
 https://youtu.be/6uBt_Yb3Y4M
